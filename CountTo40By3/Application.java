@@ -1,4 +1,4 @@
-package Misc.CountTo40By3;
+package CountTo40By3;
 /**
  * This program counts to 40, in increments of the number 3
  * 

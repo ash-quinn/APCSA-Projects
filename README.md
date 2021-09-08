@@ -3,6 +3,5 @@
 A list of projects from my time in the AP Computer Science A class.
 
 ### Projects Included
-
-- Water Bottle
-- Count to 40 by 3
+- Water Bottle (Water bottle to track water intake)
+- Count to 40 by 3 (Count to 40 by 3, counts to the number 40 in increments of threes)
